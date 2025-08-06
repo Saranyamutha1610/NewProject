@@ -1,0 +1,5 @@
+header { background: #333; color: #fff; text-align: center; padding: 15px;  }
+    nav a { color: #fff;  margin: 0 10px; text-decoration: none; }
+    .container {  max-width: 600px;  margin: 30px auto;  padding: 0 20px; }
+    img {  display: block;  max-width: 400px;  border-radius: 10%;  margin: 20px auto;  }
+    .image-description {  text-align: center;  color: #555;   font-style: italic;  }
